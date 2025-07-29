@@ -18,7 +18,7 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 - 🧬 Git
 -->
 
-
+## Skills
 <table>
   <tr>
     <td>📊 Microsoft Excel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>

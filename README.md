@@ -1,9 +1,3 @@
-Hi there, I'm Harshvardhan Khalkar 👋
-🚀 About Me
-I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as code, and building scalable, resilient systems in the cloud. I thrive on solving complex deployment challenges and streamlining developer operations.
-
-
-
 ## Hi there 👋
 
 <!--
@@ -20,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Harshvardhan Khalkar 👋
 
 ## About Me
-I'm a [Your Profession/Role] with a passion for [Your Interests]. I love working with [Technologies/Tools].
+I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as code, and building scalable, resilient systems in the cloud. I thrive on solving complex deployment challenges and streamlining developer operations.
 
 ## Skills
 - 🐍 Python

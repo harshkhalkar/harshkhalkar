@@ -40,19 +40,6 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
   </tr>
 </table>
 
-## Skills
-
-| Skills                                  |
-|-----------------------|-----------------|
-| 📊 Microsoft Excel    | 🧰 AWS          |
-| 🖼️ Microsoft PowerPoint | 📦 Docker      |
-| 🐧 Linux              | ☸️ Kubernetes   |
-| 💻 Bash               | 🧪 Jenkins      |
-| 🗄️ SQL               | ⚙️ Terraform    |
-| ☁️ Cloud Computing    | 🧬 Git          |
-|                       |                 |
-
-
 
 
 

@@ -4,7 +4,6 @@
 I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as code, and building scalable, resilient systems in the cloud. I thrive on solving complex deployment challenges and streamlining developer operations.
 
 ## Skills
-- 🐍 Python
 - 📊 Microsoft Excel
 - 🖼️ Microsoft PowerPoint
 - 🐧 Linux
@@ -17,6 +16,31 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 - 🧪 Jenkins
 - ⚙️ Terraform
 - 🧬 Git
+
+- ## Skills
+
+<table>
+  <tr>
+    <td>
+      - 🐍 Python<br>
+      - 📊 Microsoft Excel<br>
+      - 🖼️ Microsoft PowerPoint<br>
+      - 🐧 Linux<br>
+      - 💻 Bash<br>
+      - 🗄️ SQL<br>
+      - ☁️ Cloud Computing
+    </td>
+    <td>
+      - 🧰 AWS<br>
+      - 📦 Docker<br>
+      - ☸️ Kubernetes<br>
+      - 🧪 Jenkins<br>
+      - ⚙️ Terraform<br>
+      - 🧬 Git
+    </td>
+  </tr>
+</table>
+
 
 ## Projects
 - [Static Website Using Amazon S3](https://www.linkedin.com/posts/harshvardhan-khalkar-5b813531b_host-a-static-website-using-amazon-s3-amazon-activity-7340702265822883840-JffD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFD_1BwBFmvF-YjhdKe2_H9KMO0RvM6nY24): A static website hosted using Amazon S3, which serves HTML, CSS, and JavaScript files directly from an S3 bucket without the need for a web server. (will redirect to LinkedIn post)

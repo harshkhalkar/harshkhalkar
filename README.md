@@ -42,7 +42,7 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 
 ## Skills
 
-| Skills                | Skills          |
+| Skills                                  |
 |-----------------------|-----------------|
 | 📊 Microsoft Excel    | 🧰 AWS          |
 | 🖼️ Microsoft PowerPoint | 📦 Docker      |
@@ -53,34 +53,7 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 |                       |                 |
 
 
-## Skills
 
-<table>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/ms-excel.png" height="25" alt="Excel" /> Microsoft Excel</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="25" alt="AWS" /> AWS</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/ms-powerpoint.png" height="25" alt="PowerPoint" /> Microsoft PowerPoint</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="Docker" /> Docker</td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="Linux" /> Linux</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="25" alt="Kubernetes" /> Kubernetes</td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="25" alt="Bash" /> Bash</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="25" alt="Jenkins" /> Jenkins</td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="SQL" /> SQL</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="25" alt="Terraform" /> Terraform</td>
-  </tr>
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Font_Awesome_5_solid_cloud.svg" height="25" alt="Cloud Computing" /> Cloud Computing</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="Git" /> Git</td>
-  </tr>
-</table>
 
 
 

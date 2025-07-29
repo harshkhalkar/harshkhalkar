@@ -27,6 +27,5 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 - [Project 2](https://github.com/yourusername/project2): A brief description.
 
 ## Connect with Me
-[LinkedIn](https://www.linkedin.com/in/yourprofile) |
+[LinkedIn](https://www.linkedin.com/in/harshvardhan-khalkar-5b813531b)
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)

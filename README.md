@@ -17,34 +17,6 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 - ⚙️ Terraform
 - 🧬 Git
 -->
-## Skills
-
-<table>
-  <tr>
-    <td>📊 Microsoft Excel</td>
-    <td>🗄️ SQL</td>
-  </tr>
-  <tr>
-    <td>🖼️ Microsoft PowerPoint</td>
-    <td>💻 Bash</td>
-  </tr>
-  <tr>
-    <td>🐧 Linux</td>
-    <td>🧰 AWS</td>
-  </tr>
-  <tr>
-    <td>☁️ Cloud Computing</td>
-    <td>📦 Docker</td>
-  </tr>
-  <tr>
-    <td>☸️ Kubernetes</td>
-    <td>⚙️ Terraform</td>
-  </tr>
-  <tr>
-    <td>🧬 Git</td>
-    <td>🧪 Jenkins</td>
-  </tr>
-</table>
 
 
 <table>
@@ -75,29 +47,6 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 </table>
 
 
-
-
-## Skills
-<table>
-  <tr>
-    <td>
-      - 📊 Microsoft Excel<br>
-      - 🖼️ Microsoft PowerPoint<br>
-      - 🐧 Linux<br>
-      - 💻 Bash<br>
-      - 🗄️ SQL<br>
-      - ☁️ Cloud Computing
-    </td>
-    <td>
-      - 🧰 AWS<br>
-      - 📦 Docker<br>
-      - ☸️ Kubernetes<br>
-      - 🧪 Jenkins<br>
-      - ⚙️ Terraform<br>
-      - 🧬 Git
-    </td>
-  </tr>
-</table>
 
 
 ## Projects

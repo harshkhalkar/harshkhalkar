@@ -18,7 +18,7 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 - 🧬 Git
 -->
 ## Skills
-<!--
+
 <table>
   <tr>
     <td>📊 Microsoft Excel</td>
@@ -45,7 +45,7 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
     <td>🧪 Jenkins</td>
   </tr>
 </table>
--->
+
 
 <table>
   <tr>
@@ -76,7 +76,7 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 
 
 
-<!--
+
 ## Skills
 <table>
   <tr>
@@ -98,7 +98,7 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
     </td>
   </tr>
 </table>
--->
+
 
 ## Projects
 - [Static Website Using Amazon S3](https://www.linkedin.com/posts/harshvardhan-khalkar-5b813531b_host-a-static-website-using-amazon-s3-amazon-activity-7340702265822883840-JffD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFD_1BwBFmvF-YjhdKe2_H9KMO0RvM6nY24): A static website hosted using Amazon S3, which serves HTML, CSS, and JavaScript files directly from an S3 bucket without the need for a web server. (will redirect to LinkedIn post)

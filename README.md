@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **harshkhalkar/harshkhalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,6 +27,6 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 - [Project 2](https://github.com/yourusername/project2): A brief description.
 
 ## Connect with Me
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourprofile)
+[LinkedIn](https://www.linkedin.com/in/yourprofile) |
 
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)

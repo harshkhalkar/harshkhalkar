@@ -58,7 +58,7 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 <table>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" height="25" alt="Excel" /> Microsoft Excel</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="25" alt="AWS" /> AWS</td>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="25" alt="AWS" /> AWS</td>
   </tr>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Microsoft_PowerPoint_2013_logo.svg" height="25" alt="PowerPoint" /> Microsoft PowerPoint</td>
@@ -77,7 +77,7 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="25" alt="Terraform" /> Terraform</td>
   </tr>
   <tr>
-    <td><img src="https://img.icons8.com/ios-filled/50/000000/cloud.png" height="25" alt="Cloud Computing" /> Cloud Computing</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Font_Awesome_5_solid_cloud.svg" height="25" alt="Cloud Computing" /> Cloud Computing</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="Git" /> Git</td>
   </tr>
 </table>

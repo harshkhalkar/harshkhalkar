@@ -18,7 +18,7 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 - 🧬 Git
 -->
 ## Skills
-
+<!--
 <table>
   <tr>
     <td>📊 Microsoft Excel</td>
@@ -45,8 +45,7 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
     <td>🧪 Jenkins</td>
   </tr>
 </table>
-
-<h2>💼 Skills</h2>
+-->
 
 <table>
   <tr>
@@ -75,32 +74,6 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td>📊 Microsoft Excel            </td>
-    <td>🗄️ SQL                        </td>
-  </tr>
-  <tr>
-    <td>🖼️ Microsoft PowerPoint       </td>
-    <td>💻 Bash                       </td>
-  </tr>
-  <tr>
-    <td>🐧 Linux                   </td>
-    <td>🧰 AWS                     </td>
-  </tr>
-  <tr>
-    <td>☁️ Cloud Computing           </td>
-    <td>📦 Docker                    </td>
-  </tr>
-  <tr>
-    <td>☸️ Kubernetes              </td>
-    <td>⚙️ Terraform               </td>
-  </tr>
-  <tr>
-    <td>🧬 Git                    </td>
-    <td>🧪 Jenkins                </td>
-  </tr>
-</table>
 
 
 <!--

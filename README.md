@@ -73,7 +73,7 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 | [Automated Multi-Region EBS Snapshot]() | Automates EBS snapshot backups across all AWS regions using Lambda, Boto3, and EventBridge. |
 | [AWS Three Tier Web App]() | Deployed a secure, scalable three-tier web app on AWS using VPC, EC2 ASGs, ALBs, and RDS. |
 | [Enforcing EC2 Tagging Policy]() | IAM policy-based solution to enforce mandatory EC2 tags like Team, Email, Name, and Place. |
-| [vpc-multi-subnet-networking]() | CloudFormation template to create a VPC with multiple public and private subnets across 2 AZs. |
+| [VPC Multi Subnet Networking]() | CloudFormation template to create a VPC with multiple public and private subnets across 2 AZs. |
 
 
 ## Connect with Me

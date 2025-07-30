@@ -56,6 +56,7 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 - [Automated Receipt Processing System](https://github.com/harshkhalkar/project/tree/main/Automated-AWS-Receipt-Processing-System): Automates receipt processing by extracting data with Textract, storing it in DynamoDB, and sending notifications via SES.
 -  [Automated Multi-Region EBS Snapshot](): Automates EBS snapshot backups across all AWS regions using Lambda, Boto3, and EventBridge for secure, scheduled protection.
 - [Three Tier Web App Architecture](): Deployed a secure, scalable three-tier web app on AWS using VPC, EC2 ASGs, ALBs, and RDS, with layered subnet and security group design for isolation and high availability.
+- [Enforcing EC2 Tagging Policy](): Implemented an IAM-based policy to enforce mandatory EC2 tags for cost tracking and accountability, ensuring every instance includes team, email, and purpose metadata.
 
 ## Connect with Me
 [LinkedIn](https://www.linkedin.com/in/harshvardhan-khalkar-5b813531b)

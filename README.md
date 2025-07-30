@@ -48,7 +48,7 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 
 
 
-
+<!--
 ## Projects
 - [Static Website Using Amazon S3](https://www.linkedin.com/posts/harshvardhan-khalkar-5b813531b_host-a-static-website-using-amazon-s3-amazon-activity-7340702265822883840-JffD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFD_1BwBFmvF-YjhdKe2_H9KMO0RvM6nY24): A static website hosted using Amazon S3, which serves HTML, CSS, and JavaScript files directly from an S3 bucket without the need for a web server. (will redirect to LinkedIn post)
 - [3-Tier Web Application using Docker Compose (PHP, MySQL, Nginx)](https://github.com/harshkhalkar/project/tree/main/docker-compose/3%20Tier%20Application): A 3-tier web application architecture using Docker Compose, consisting of Nginx as the web server, PHP as the application layer, and MySQL as the database.
@@ -58,7 +58,7 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 - [AWS Three Tier Web App](): Deployed a secure, scalable three-tier web app on AWS using VPC, EC2 ASGs, ALBs, and RDS, with layered subnet and security group design for isolation and high availability.
 - [Enforcing EC2 Tagging Policy](): Implemented an IAM-based policy to enforce mandatory EC2 tags for cost tracking and accountability, ensuring every instance includes team, email, and purpose metadata.
 - [vpc-multi-subnet-networking](): CloudFormation template to create a VPC with multiple public and private subnets across two Availability Zones, along with internet access for public subnets.
-
+-->
 
 
 

@@ -54,9 +54,10 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 - [3-Tier Web Application using Docker Compose (PHP, MySQL, Nginx)](https://github.com/harshkhalkar/project/tree/main/docker-compose/3%20Tier%20Application): A 3-tier web application architecture using Docker Compose, consisting of Nginx as the web server, PHP as the application layer, and MySQL as the database.
 - [Other docker-compose applications](https://github.com/harshkhalkar/project/tree/main/docker-compose): All docker-compose application project.
 - [Automated Receipt Processing System](https://github.com/harshkhalkar/project/tree/main/Automated-AWS-Receipt-Processing-System): Automates receipt processing by extracting data with Textract, storing it in DynamoDB, and sending notifications via SES.
--  [Automated Multi-Region EBS Snapshot](): Automates EBS snapshot backups across all AWS regions using Lambda, Boto3, and EventBridge for secure, scheduled protection.
+- [Automated Multi-Region EBS Snapshot](): Automates EBS snapshot backups across all AWS regions using Lambda, Boto3, and EventBridge for secure, scheduled protection.
 - [AWS Three Tier Web App](): Deployed a secure, scalable three-tier web app on AWS using VPC, EC2 ASGs, ALBs, and RDS, with layered subnet and security group design for isolation and high availability.
 - [Enforcing EC2 Tagging Policy](): Implemented an IAM-based policy to enforce mandatory EC2 tags for cost tracking and accountability, ensuring every instance includes team, email, and purpose metadata.
+- [vpc-multi-subnet-networking](): CloudFormation template to create a VPC with multiple public and private subnets across two Availability Zones, along with internet access for public subnets.
 
 ## Connect with Me
 [LinkedIn](https://www.linkedin.com/in/harshvardhan-khalkar-5b813531b)

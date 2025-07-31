@@ -87,6 +87,9 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 | [Enforcing EC2 Tagging Policy](https://github.com/harshkhalkar/EC2-Tag-Enforcement.git) | IAM policy-based solution to enforce mandatory EC2 tags like Team, Email, Name, and Place. |
 | [VPC Multi Subnet Networking](https://github.com/harshkhalkar/CloudFormation.git) | CloudFormation template to create a VPC with multiple public and private subnets across 2 AZs. |
 
-
+<div align="center">
+  
 ## Connect with Me
 [LinkedIn](https://www.linkedin.com/in/harshvardhan-khalkar-5b813531b)
+
+</div>

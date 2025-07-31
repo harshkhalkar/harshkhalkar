@@ -69,13 +69,13 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 | Project Name | Description |
 |--------------|-------------|
 | [Static Website Using Amazon S3](https://www.linkedin.com/posts/harshvardhan-khalkar-5b813531b_host-a-static-website-using-amazon-s3-amazon-activity-7340702265822883840-JffD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFD_1BwBFmvF-YjhdKe2_H9KMO0RvM6nY24) | A static website hosted using Amazon S3, serving HTML, CSS, and JS files directly from an S3 bucket without a web server. |
-| [3-Tier Web Application using Docker Compose (PHP, MySQL, Nginx)](https://github.com/harshkhalkar/project/tree/main/docker-compose/3%20Tier%20Application) | 3-tier architecture using Docker Compose: Nginx (web), PHP (app), and MySQL (database). |
-| [Other docker-compose applications](https://github.com/harshkhalkar/project/tree/main/docker-compose) | A collection of multiple Docker Compose application setups. |
-| [Automated Receipt Processing System](https://github.com/harshkhalkar/project/tree/main/Automated-AWS-Receipt-Processing-System) | Uses Textract to extract data from receipts, stores it in DynamoDB, and sends notifications via SES. |
-| [Automated Multi-Region EBS Snapshot]() | Automates EBS snapshot backups across all AWS regions using Lambda, Boto3, and EventBridge. |
-| [AWS Three Tier Web App]() | Deployed a secure, scalable three-tier web app on AWS using VPC, EC2 ASGs, ALBs, and RDS. |
-| [Enforcing EC2 Tagging Policy]() | IAM policy-based solution to enforce mandatory EC2 tags like Team, Email, Name, and Place. |
-| [VPC Multi Subnet Networking]() | CloudFormation template to create a VPC with multiple public and private subnets across 2 AZs. |
+| [3-Tier Web Application using Docker Compose (PHP, MySQL, Nginx)](https://github.com/harshkhalkar/Docker/tree/main/docker-compose/3%20Tier%20Application) | 3-tier architecture using Docker Compose: Nginx (web), PHP (app), and MySQL (database). |
+| [Other docker-compose applications](https://github.com/harshkhalkar/Docker/tree/main/docker-compose) | A collection of multiple Docker Compose application setups. |
+| [Automated Receipt Processing System](https://github.com/harshkhalkar/Automated-Receipt-Processing-System.git) | Uses Textract to extract data from receipts, stores it in DynamoDB, and sends notifications via SES. |
+| [Automated Multi-Region EBS Snapshot](https://github.com/harshkhalkar/Automated-EBS-Snapshot.git) | Automates EBS snapshot backups across all AWS regions using Lambda, Boto3, and EventBridge. |
+| [AWS Three Tier Web App](https://github.com/harshkhalkar/aws-three-tier-web-app.git) | Deployed a secure, scalable three-tier web app on AWS using VPC, EC2 ASGs, ALBs, and RDS. |
+| [Enforcing EC2 Tagging Policy](https://github.com/harshkhalkar/EC2-Tag-Enforcement.git) | IAM policy-based solution to enforce mandatory EC2 tags like Team, Email, Name, and Place. |
+| [VPC Multi Subnet Networking](https://github.com/harshkhalkar/CloudFormation.git) | CloudFormation template to create a VPC with multiple public and private subnets across 2 AZs. |
 
 
 ## Connect with Me

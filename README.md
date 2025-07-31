@@ -45,6 +45,10 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
     <td>🧬 Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>🧪 Jenkins</td>
   </tr>
+  <tr>
+    <td>📐 Lucidchart</td>
+    <td></td>
+  </tr>
 </table>
 
 <!--

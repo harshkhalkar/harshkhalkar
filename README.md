@@ -1,7 +1,13 @@
-# Hi there, I'm Harshvardhan Khalkar 👋
+<div align="center">
+  
+# Hi there, I'm Harshvardhan 👋
+
+
 
 ## About Me
+</div>
 I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as code, and building scalable, resilient systems in the cloud. I thrive on solving complex deployment challenges and streamlining developer operations.
+
 <!--
 ## Skills
 - 📊 Microsoft Excel
@@ -17,7 +23,8 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 - ⚙️ Terraform
 - 🧬 Git
 -->
-
+<div align="center">
+  
 ## Skills
 <table>
   <tr>
@@ -52,6 +59,7 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
   </tr>
 </table>
 
+</div>
 <!--
 ## Projects
 - [Static Website Using Amazon S3](https://www.linkedin.com/posts/harshvardhan-khalkar-5b813531b_host-a-static-website-using-amazon-s3-amazon-activity-7340702265822883840-JffD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFD_1BwBFmvF-YjhdKe2_H9KMO0RvM6nY24): A static website hosted using Amazon S3, which serves HTML, CSS, and JavaScript files directly from an S3 bucket without the need for a web server. (will redirect to LinkedIn post)
@@ -63,8 +71,10 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 - [Enforcing EC2 Tagging Policy](): Implemented an IAM-based policy to enforce mandatory EC2 tags for cost tracking and accountability, ensuring every instance includes team, email, and purpose metadata.
 - [vpc-multi-subnet-networking](): CloudFormation template to create a VPC with multiple public and private subnets across two Availability Zones, along with internet access for public subnets.
 -->
-
+<div align="center">
+  
 ## Projects
+</div>
 
 | Project Name | Description |
 |--------------|-------------|

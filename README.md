@@ -68,7 +68,7 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 
 | Project Name | Description |
 |--------------|-------------|
-| [Static Website Using Amazon S3](https://www.linkedin.com/posts/harshvardhan-khalkar-5b813531b_host-a-static-website-using-amazon-s3-amazon-activity-7340702265822883840-JffD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFD_1BwBFmvF-YjhdKe2_H9KMO0RvM6nY24) | A static website hosted using Amazon S3, serving HTML, CSS, and JS files directly from an S3 bucket without a web server. |
+| [Static Website Using Amazon S3](https://github.com/harshkhalkar/setup-static-website.git) | A static website hosted using Amazon S3, serving HTML, CSS, and JS files directly from an S3 bucket without a web server. |
 | [3-Tier Web Application using Docker Compose (PHP, MySQL, Nginx)](https://github.com/harshkhalkar/Docker/tree/main/docker-compose/3%20Tier%20Application) | 3-tier architecture using Docker Compose: Nginx (web), PHP (app), and MySQL (database). |
 | [Other docker-compose applications](https://github.com/harshkhalkar/Docker/tree/main/docker-compose) | A collection of multiple Docker Compose application setups. |
 | [Automated Receipt Processing System](https://github.com/harshkhalkar/Automated-Receipt-Processing-System.git) | Uses Textract to extract data from receipts, stores it in DynamoDB, and sends notifications via SES. |

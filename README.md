@@ -23,6 +23,7 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
   <tr>
     <td>📊 Microsoft Excel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>🗄️ SQL</td>
+    <td>📐 Lucidchart</td>
   </tr>
   <tr>
     <td>🖼️ Microsoft PowerPoint&nbsp;&nbsp;&nbsp;&nbsp;</td>
@@ -46,8 +47,6 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
   </tr>
 </table>
 
-
-
 <!--
 ## Projects
 - [Static Website Using Amazon S3](https://www.linkedin.com/posts/harshvardhan-khalkar-5b813531b_host-a-static-website-using-amazon-s3-amazon-activity-7340702265822883840-JffD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFD_1BwBFmvF-YjhdKe2_H9KMO0RvM6nY24): A static website hosted using Amazon S3, which serves HTML, CSS, and JavaScript files directly from an S3 bucket without the need for a web server. (will redirect to LinkedIn post)
@@ -59,8 +58,6 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 - [Enforcing EC2 Tagging Policy](): Implemented an IAM-based policy to enforce mandatory EC2 tags for cost tracking and accountability, ensuring every instance includes team, email, and purpose metadata.
 - [vpc-multi-subnet-networking](): CloudFormation template to create a VPC with multiple public and private subnets across two Availability Zones, along with internet access for public subnets.
 -->
-
-
 
 ## Projects
 

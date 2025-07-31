@@ -28,25 +28,26 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
   <tr>
     <td>🖼️ Microsoft PowerPoint&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>💻 Bash</td>
+    <td></td>
   </tr>
   <tr>
     <td>🐧 Linux&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>🧰 AWS</td>
+    <td></td>
   </tr>
   <tr>
     <td>☁️ Cloud Computing&nbsp;&nbsp;&nbsp;</td>
     <td>📦 Docker</td>
+    <td></td>
   </tr>
   <tr>
     <td>☸️ Kubernetes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>⚙️ Terraform</td>
+    <td></td>
   </tr>
   <tr>
     <td>🧬 Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>🧪 Jenkins</td>
-  </tr>
-  <tr>
-    <td>📐 Lucidchart</td>
     <td></td>
   </tr>
 </table>

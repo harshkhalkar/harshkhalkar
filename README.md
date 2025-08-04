@@ -19,28 +19,33 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
     <td>🖼️ Microsoft PowerPoint&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td>🖼️ Microsoft PowerPoint&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>🧬 Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>💻 Bash</td>
-    <td></td>
-  </tr>
-  <tr>
     <td>🐧 Linux&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td>🧰 AWS</td>
-    <td></td>
+    <td>📦 Docker</td>
   </tr>
   <tr>
     <td>☁️ Cloud Computing&nbsp;&nbsp;&nbsp;</td>
-    <td>📦 Docker</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>☸️ Kubernetes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>🧰 AWS</td>
     <td>⚙️ Terraform</td>
+    <td>☸️ Kubernetes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>🧪 Jenkins</td>
+    <td></td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>🧬 Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td>🧪 Jenkins</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
     <td></td>
   </tr>
 </table>

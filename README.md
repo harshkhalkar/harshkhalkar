@@ -16,6 +16,7 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
     <td>📊 Microsoft Excel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>🗄️ SQL</td>
     <td>📐 Lucidchart</td>
+    <td>🖼️ Microsoft PowerPoint&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td>🖼️ Microsoft PowerPoint&nbsp;&nbsp;&nbsp;&nbsp;</td>

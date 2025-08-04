@@ -36,18 +36,6 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
     <td></td>
     <td></td>
   </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
 </table>
 
 </div>

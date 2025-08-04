@@ -13,24 +13,24 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 ## Skills
 <table>
   <tr>
-    <td>📊 Microsoft Excel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>📊 Microsoft Excel</td>
     <td>🗄️ SQL</td>
     <td>📐 Lucidchart</td>
-    <td>🖼️ Microsoft PowerPoint&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>🖼️ Microsoft PowerPoint</td>
     <td>🧪 Jenkins</td>
   </tr>
   <tr>
-    <td>🧬 Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>🧬 Git</td>
     <td>💻 Bash</td>
-    <td>🐧 Linux&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>🐧 Linux</td>
     <td>📦 Docker</td>
     <td></td>
   </tr>
   <tr>
-    <td>☁️ Cloud Computing&nbsp;&nbsp;&nbsp;</td>
+    <td>☁️ Cloud Computing</td>
     <td>🧰 AWS</td>
     <td>⚙️ Terraform</td>
-    <td>☸️ Kubernetes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>☸️ Kubernetes</td>
     <td></td>
   </tr>
 </table>

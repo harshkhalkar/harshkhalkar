@@ -60,4 +60,6 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 
 </div>
 
+<div align="center">
 ![GitHub Streak](https://streak-stats.demolab.com/?user=harshkhalkar&theme=dark&background=00000000)
+</div>

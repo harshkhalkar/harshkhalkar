@@ -59,9 +59,3 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 [LinkedIn](https://www.linkedin.com/in/harshvardhan-khalkar-5b813531b)
 
 </div>
-
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=harshkhalkar&theme=dark&background=00000000)
-
-</div>

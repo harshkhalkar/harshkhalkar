@@ -56,7 +56,9 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 <div align="center">
   
 ## Connect with Me
-[LinkedIn](https://www.linkedin.com/in/harshkhalkar)
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="https://www.linkedin.com/in/harshkhalkar"  />
+<a href="https://www.linkedin.com/in/harshkhalkar" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</a>
+
 
 </div>

@@ -24,14 +24,14 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
     <td>💻 Bash</td>
     <td>🐧 Linux</td>
     <td>📦 Docker</td>
-    <td></td>
+    <td>🔁 CI/CD</td>
   </tr>
   <tr>
     <td>☁️ Cloud Computing</td>
     <td>🧰 AWS</td>
     <td>⚙️ Terraform</td>
     <td>☸️ Kubernetes</td>
-    <td></td>
+    <td>🏗️ Infrastructure as Code (IaC)</td>
   </tr>
 </table>
 

@@ -18,6 +18,8 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
     <td>📐 Lucidchart</td>
     <td>🖼️ Microsoft PowerPoint</td>
     <td>🧪 Jenkins</td>
+    <td>📜 Ansible</td>
+    <td>📊 Grafana</td>
   </tr>
   <tr>
     <td>🧬 Git</td>
@@ -25,13 +27,17 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
     <td>🐧 Linux</td>
     <td>📦 Docker</td>
     <td>🔁 CI/CD</td>
+    <td>⚙️ Terraform</td>
+    <td>📈 Prometheus</td>
   </tr>
   <tr>
     <td>☁️ Cloud Computing</td>
     <td>🧰 AWS</td>
-    <td>⚙️ Terraform</td>
     <td>☸️ Kubernetes</td>
     <td>🏗️ Infrastructure as Code (IaC)</td>
+    <td>🔧 Configuration Management</td>
+    <td>👁️ Monitoring & Observability</td>
+    <td></td>
   </tr>
 </table>
 

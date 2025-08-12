@@ -58,6 +58,7 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 | [AWS Three Tier Web App](https://github.com/harshkhalkar/aws-three-tier-web-app.git) | Deployed a secure, scalable three-tier web app on AWS using VPC, EC2 ASGs, ALBs, and RDS. |
 | [Enforcing EC2 Tagging Policy](https://github.com/harshkhalkar/EC2-Tag-Enforcement.git) | IAM policy-based solution to enforce mandatory EC2 tags like Team, Email, Name, and Place. |
 | [VPC Multi Subnet Networking](https://github.com/harshkhalkar/CloudFormation.git) | CloudFormation template to create a VPC with multiple public and private subnets across 2 AZs. |
+| [Student Registration Flask Web App](https://github.com/harshkhalkar/student-registration-flask-application.git) | Flask-based microservices app with CI/CD pipeline, containerized with Docker and deployed via Kubernetes. |
 
 <div align="center">
   

@@ -13,30 +13,30 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 ## Skills
 <table>
   <tr>
-    <td>📊 Microsoft Excel</td>
-    <td>🗄️ SQL</td>
-    <td>📐 Lucidchart</td>
-    <td>🖼️ Microsoft PowerPoint</td>
-    <td>🧪 Jenkins</td>
-    <td>📜 Ansible</td>
-    <td>📊 Grafana</td>
+    <td>Microsoft Excel</td>
+    <td>SQL</td>
+    <td>Lucidchart</td>
+    <td>Microsoft PowerPoint</td>
+    <td>Jenkins</td>
+    <td>Ansible</td>
+    <td>Grafana</td>
   </tr>
   <tr>
-    <td>🧬 Git</td>
-    <td>💻 Bash</td>
-    <td>🐧 Linux</td>
-    <td>📦 Docker</td>
-    <td>🔁 CI/CD</td>
-    <td>⚙️ Terraform</td>
-    <td>📈 Prometheus</td>
+    <td>Git</td>
+    <td>Bash</td>
+    <td>Linux</td>
+    <td>Docker</td>
+    <td>CI/CD</td>
+    <td>Terraform</td>
+    <td>Prometheus</td>
   </tr>
   <tr>
-    <td>☁️ Cloud Computing</td>
-    <td>🧰 AWS</td>
-    <td>☸️ Kubernetes</td>
-    <td>🏗️ Infrastructure as Code (IaC)</td>
-    <td>🔧 Configuration Management</td>
-    <td>👁️ Monitoring & Observability</td>
+    <td>Cloud Computing</td>
+    <td>AWS</td>
+    <td>Kubernetes</td>
+    <td>Infrastructure as Code (IaC)</td>
+    <td>Configuration Management</td>
+    <td>Monitoring & Observability</td>
     <td></td>
   </tr>
 </table>

@@ -59,6 +59,7 @@ I'm a Cloud and DevOps Engineer with a passion for automation, infrastructure as
 | [Enforcing EC2 Tagging Policy](https://github.com/harshkhalkar/EC2-Tag-Enforcement.git) | IAM policy-based solution to enforce mandatory EC2 tags like Team, Email, Name, and Place. |
 | [VPC Multi Subnet Networking](https://github.com/harshkhalkar/CloudFormation.git) | CloudFormation template to create a VPC with multiple public and private subnets across 2 AZs. |
 | [Student Registration Flask Web App](https://github.com/harshkhalkar/student-registration-flask-application.git) | Flask-based microservices app with CI/CD pipeline, containerized with Docker and deployed via Kubernetes. |
+| [ECR Image Logger](https://github.com/harshkhalkar/ecr-image-logger.git) | ECR Image Logger - A serverless AWS solution that logs Amazon ECR image push events into DynamoDB and sends notifications via SNS, built with Lambda and CI/CD pipeline integration. |
 
 <div align="center">
   
